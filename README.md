@@ -9,6 +9,7 @@ Runs using terminal based UI
 - access to terminal,shell or command prompt
 
 Complie: javac Contacts.java
+<br>
 Run    : java Contacts 
-
+<br>
 alternatively run: java Contacts.java (without compile first)
