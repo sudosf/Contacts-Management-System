@@ -8,6 +8,7 @@ Runs using terminal based UI
 - Java 8+ must installed
 - access to terminal,shell or command prompt
 
+<br>
 Complie: javac Contacts.java
 <br><br>
 Run    : java Contacts 
